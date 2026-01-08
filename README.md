@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2>Programmer">Student at the University of Wisconsin Madison</a></h1>
+<h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2">Student at the University of Wisconsin Madison</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
