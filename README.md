@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2">Student at the University of Wisconsin Madison</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Data Structure Heap Implementation Project</b>
   - [Executing a heap data structure using Java](https://github.com/mittanshn/Heap-Project)
