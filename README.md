@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2>Programmer">Student at the University of Wisconsin Madison</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
