@@ -1,43 +1,44 @@
-<h1>Hi, I'm Mittansh Nithiyanandam! <br/><a href="https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2">Student at the University of Wisconsin Madison</a></h1>
+# Mittansh Nithiyanandam
 
-<h2>👨‍💻 Technical Projects:</h2>
+Computer Science student at the **University of Wisconsin–Madison** (B.S. CS, expected May 2029). I focus on **software engineering** and **data structures & algorithms**, with strong fundamentals in Java and Python. I’m looking for a **software engineering internship** where I can apply solid problem-solving, careful implementation, and collaborative habits from team sports and coaching.
 
-- <b>Data Structure Heap Implementation Project</b>
-  - [Executing a heap data structure using Java](https://github.com/mittanshn/Heap-Project)
-- <b>Data Structure Linked Lists Analysis Application</b>
-  - [Executing a heap data structure using Java](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+---
 
-<h2>📺 Popular YouTube Videos</h2>
+## Skills
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+**Languages:** Java, Python, JavaScript  
 
-<h2> 🤳 Connect with me:</h2>
+**Tools:** Git, GitHub, Linux/Unix, VS Code  
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Technical:** Object-oriented design, data structures, algorithms, debugging, unit testing  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+**Collaboration:** Leadership, clear communication, time management, working effectively under pressure  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Binary heap & word analyzer — Java
+
+Custom binary heap with insert, remove, and peek; heapify-up / heapify-down for **O(log n)** maintenance; unit tests for edge cases and correctness.
+
+**Repository:** [mittanshn/Heap-Project](https://github.com/mittanshn/Heap-Project)
+
+### Linked lists — playlist analysis application — Java
+
+Data-processing app built around a **linked-list** playlist: dynamic insert, delete, and traversal; search, reorder, and display—practice with pointer-style structures and efficient operations.
+
+### Binary search tree — Java
+
+Custom BST with insert, delete, and search; recursive **in-order, pre-order, and post-order** traversals; **O(log n)** average-case lookups and targeted tests for validation.
+
+---
+
+## Contact
+
+**LinkedIn:** [mittansh-nithiyanandam](https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2)  
+
+**Email:** nithiyananda@wisc.edu  
+
+**Location:** Madison, WI
+
