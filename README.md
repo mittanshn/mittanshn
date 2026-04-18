@@ -59,9 +59,6 @@
 - **Team captain**, professional cricket (Chicago Tigers)—strategy, coordination, and performance in high-pressure settings  
 - **Coach & mentor**, youth cricket program—technical fundamentals, teamwork, and structured training for 20+ athletes  
 
-**Community**
-
-- Volunteer with **MVP Fieldhouse** and similar programs—event support, logistics, and assisting youth sports in fast-paced settings  
 
 ---
 
