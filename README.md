@@ -22,7 +22,6 @@ Computer Science student at the **University of Wisconsin–Madison** (B.S. CS, 
 
 Custom binary heap with insert, remove, and peek; heapify-up / heapify-down for **O(log n)** maintenance; unit tests for edge cases and correctness.
 
-**Repository:** [mittanshn/Heap-Project](https://github.com/mittanshn/Heap-Project)
 
 ### Linked lists — playlist analysis application — Java
 
