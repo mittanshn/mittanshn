@@ -37,7 +37,7 @@ Custom BST with insert, delete, and search; recursive **in-order, pre-order, and
 
 **LinkedIn:** [mittansh-nithiyanandam](https://www.linkedin.com/in/mittansh-nithiyanandam-07b7b92a2)  
 
-**Email:** nithiyananda@wisc.edu  
+**Email:** nithiyananda@wisc.edu / mitta.nithiya@gmail.com 
 
-**Location:** Madison, WI
+**Location:** Madison, WI / Lake Forest, IL
 
